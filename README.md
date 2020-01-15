@@ -11,3 +11,7 @@ For this project, I am challenging myself to use several different design tools 
 Some other projects similar to this one:
 - https://www.thingiverse.com/thing:2762341
 - https://www.thingiverse.com/thing:3559769
+
+## Firmware
+
+https://github.com/sjkelly/Marlin/tree/sjk/cube3d_1x
